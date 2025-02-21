@@ -107,7 +107,7 @@ debug.hwui.renderer=skiagl
 renderthread.skia.reduceopstasksplitting=true 
 
 # Maintainer Flag
-ro.droidx.maintainer= name
+ro.droidx.maintainer=Zeke
 
 # Some Ginkgo Properties
 ro.droidx.chipset=Snapdragon 665
